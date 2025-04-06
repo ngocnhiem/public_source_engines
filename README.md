@@ -10,28 +10,28 @@ NB2: Notice I say public source, and not open or free or anything that suggests 
 ## Team Engines
 Engines that are being developed by teams of individuals, generally are well established and have commercial products behind them.
 
-|| Engine | Source | Language | Screenshot |
-| ---- | :---: | --- | :-: | --- |
-|![ue4](logos/ue4_64px.png)| Unreal Engine | https://github.com/EpicGames/UnrealEngine | <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width="32"> | <img src="https://i.ytimg.com/vi/mUfuqDEXGGs/maxresdefault.jpg" width="300"/>|
-|![cryengine](logos/cryengine_64px.png)| CryEngine | https://github.com/CRYTEK/CRYENGINE_ReadMe | <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width="32"> | <img src="https://steamcdn-a.akamaihd.net/steam/apps/220980/ss_8e87d76adb029c0454823e73279f70de20432777.600x338.jpg" width="300"/>|
-|![godot](logos/godot_64px.png)| Godot | https://github.com/godotengine/godot | <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width="32"> | <img src="https://user-images.githubusercontent.com/180032/54845242-2d1cff00-4cd9-11e9-87af-434063628126.png" width="300"/>|
-|![the_forge](logos/the_forge_64px.png)| The Forge | https://github.com/ConfettiFX/The-Forge | <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width="32"> | <img src="https://raw.githubusercontent.com/ConfettiFX/The-Forge-Media/refs/heads/master/Screenshots/Screen-Space-Shadows/Switch/XAL02100097362-20240401-0007.PNG" width="300"/>|
-|![torque](logos/torque_64px.png)| Torque 3D | https://github.com/TorqueGameEngines/Torque3D | <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width="32"> | <img src="https://torque3d.readthedocs.io/en/latest/_images/WorldEditorIntroImage.jpg" width="300"/>|
-|![flax](logos/flax_64px.png)| Flax Engine | https://github.com/FlaxEngine/FlaxEngine | <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width="32"> <img src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' width="32"> | <img src="https://docs.flaxengine.com/manual/editor/media/title.jpg" width="300"/>|
-|![panda3d](logos/panda3d_64px.png)| Panda 3D | https://github.com/panda3d/panda3d | <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width="32"> | <img src="https://www.panda3d.org/wp-content/uploads/2018/12/403.png" width="300"/>|
-|![armory3d](logos/armory3d_64px.png)| Armory 3D | https://github.com/armory3d/armory | <img src='https://github.com/devicons/devicon/blob/master/icons/haxe/haxe-original.svg' width="24"> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width="32"> | <img src="https://raw.githubusercontent.com/armory3d/armory_wiki_images/master/getting_started/playground/5.jpg" width="300"/>|
-|![neoaxis](logos/neoaxis_64px.png)| NeoAxis Engine | https://github.com/NeoAxis/NeoAxisEngine | | <img src="https://www.neoaxis.com/images/2020_8/NeoAxisEngine_2020_8.png" width="300"/>|
-|![u3d](logos/u3d_64px.png)| U3D | https://github.com/u3d-community/U3D | | <img src="https://user-images.githubusercontent.com/467729/204386186-fbc2b8f8-cff8-4549-9fbc-5a6d35869a08.png" width="300"/>|
-|![playcanvas](logos/playcanvas_64px.png)| PlayCanvas Engine | https://github.com/playcanvas/engine | | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
-|![lumberyard](logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
-|![o3de](logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
-|![ez](logos/ezengine_64px.png)| ezEngine | https://github.com/ezEngine/ezEngine | | <img src="https://camo.githubusercontent.com/de9ee5dd4bedee4ce011317d2b4baaa17189cf7b60bee9493aadec8d207738e7/68747470733a2f2f657a656e67696e652e6e65742f70616765732f73616d706c65732f6d656469612f73686f77636173652d312e6a7067" width="300" /> |
-|![defold](logos/defold_64px.png)| Defold | https://github.com/defold/defold | | <img src="https://th.bing.com/th/id/R.7ba39d145bb7c6f2067e0c8478730095?rik=nwDxJvRVWGIYCA&pid=ImgRaw&r=0" width="300" /> |
-|![cocos](logos/cocos_64px.png)| Cocos Creator | https://github.com/cocos/cocos-engine | | <img src="https://github.com/cocos/cocos-engine/blob/develop/ui.png" width="300" /> |
-|![stride](logos/stride3d_64px.png)| Stride | https://github.com/stride3d/stride | | <img src="https://camo.githubusercontent.com/04a3691cf04c94e9dedd9d5ad4a4cc662fc4d17319cf284469a1e16c32865767/68747470733a2f2f73747269646533642e6e65742f696d616765732f65787465726e616c2f7363726970742d656469746f722e706e67" width="300" /> |
-|![dagor](logos/dagor_64px.png)| Dagor | https://github.com/GaijinEntertainment/DagorEngine | | <img src="https://pbs.twimg.com/media/DWaia30WsAA0cph.jpg" width="300" /> |
-|![range](logos/rangeengine_64px.png)| Range Engine |https://github.com/rangeengine/rangeengine.github.io | | <img src="https://rangeengine.tech/img/sliders/materials.PNG" width="300" /> |
-|![iolite](logos/iolite_64px.png)| IOLITE Voxel |https://github.com/MissingDeadlines/iolite | | <img src="https://iolite-engine.com/_next/image?url=https%3A%2F%2Fmedia.missing-deadlines.com%2Fiolite%2Fimages%2Fscreenshot_19.jpg&w=1920&q=75" width="300" /> |
+|| Engine | Source | Screenshot |
+| ---- | :---: | --- | --- |
+|![ue4](logos/ue4_64px.png)| Unreal Engine | https://github.com/EpicGames/UnrealEngine | <img src="https://i.ytimg.com/vi/mUfuqDEXGGs/maxresdefault.jpg" width="300"/>|
+|![cryengine](logos/cryengine_64px.png)| CryEngine | https://github.com/CRYTEK/CRYENGINE_ReadMe | <img src="https://steamcdn-a.akamaihd.net/steam/apps/220980/ss_8e87d76adb029c0454823e73279f70de20432777.600x338.jpg" width="300"/>|
+|![godot](logos/godot_64px.png)| Godot | https://github.com/godotengine/godot | <img src="https://user-images.githubusercontent.com/180032/54845242-2d1cff00-4cd9-11e9-87af-434063628126.png" width="300"/>|
+|![the_forge](logos/the_forge_64px.png)| The Forge | https://github.com/ConfettiFX/The-Forge | <img src="https://raw.githubusercontent.com/ConfettiFX/The-Forge-Media/refs/heads/master/Screenshots/Screen-Space-Shadows/Switch/XAL02100097362-20240401-0007.PNG" width="300"/>|
+|![torque](logos/torque_64px.png)| Torque 3D | https://github.com/TorqueGameEngines/Torque3D | <img src="https://torque3d.readthedocs.io/en/latest/_images/WorldEditorIntroImage.jpg" width="300"/>|
+|![flax](logos/flax_64px.png)| Flax Engine | https://github.com/FlaxEngine/FlaxEngine | <img src="https://docs.flaxengine.com/manual/editor/media/title.jpg" width="300"/>|
+|![panda3d](logos/panda3d_64px.png)| Panda 3D | https://github.com/panda3d/panda3d | <img src="https://www.panda3d.org/wp-content/uploads/2018/12/403.png" width="300"/>|
+|![armory3d](logos/armory3d_64px.png)| Armory 3D | https://github.com/armory3d/armory | <img src="https://raw.githubusercontent.com/armory3d/armory_wiki_images/master/getting_started/playground/5.jpg" width="300"/>|
+|![neoaxis](logos/neoaxis_64px.png)| NeoAxis Engine | https://github.com/NeoAxis/NeoAxisEngine | <img src="https://www.neoaxis.com/images/2020_8/NeoAxisEngine_2020_8.png" width="300"/>|
+|![u3d](logos/u3d_64px.png)| U3D | https://github.com/u3d-community/U3D | <img src="https://user-images.githubusercontent.com/467729/204386186-fbc2b8f8-cff8-4549-9fbc-5a6d35869a08.png" width="300"/>|
+|![playcanvas](logos/playcanvas_64px.png)| PlayCanvas Engine | https://github.com/playcanvas/engine | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/PlayCanvas_Editor_Screenshot_-_Jan_2016.jpg" width="300"/> |
+|![lumberyard](logos/lumberyard_64px.png)| Lumberyard | https://github.com/aws/lumberyard | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/01/21/LY127-1024x556.png" width="300"/> |
+|![o3de](logos/o3de_64px.png)| O3DE | https://github.com/o3de/o3de | <img src="https://d2908q01vomqb2.cloudfront.net/91032ad7bbcb6cf72875e8e8207dcfba80173f7c/2021/07/01/O3DE-002.jpg" width="300"/> |
+|![ez](logos/ezengine_64px.png)| ezEngine | https://github.com/ezEngine/ezEngine | <img src="https://camo.githubusercontent.com/de9ee5dd4bedee4ce011317d2b4baaa17189cf7b60bee9493aadec8d207738e7/68747470733a2f2f657a656e67696e652e6e65742f70616765732f73616d706c65732f6d656469612f73686f77636173652d312e6a7067" width="300" /> |
+|![defold](logos/defold_64px.png)| Defold | https://github.com/defold/defold | <img src="https://th.bing.com/th/id/R.7ba39d145bb7c6f2067e0c8478730095?rik=nwDxJvRVWGIYCA&pid=ImgRaw&r=0" width="300" /> |
+|![cocos](logos/cocos_64px.png)| Cocos Creator | https://github.com/cocos/cocos-engine | <img src="https://github.com/cocos/cocos-engine/blob/develop/ui.png" width="300" /> |
+|![stride](logos/stride3d_64px.png)| Stride | https://github.com/stride3d/stride | <img src="https://camo.githubusercontent.com/04a3691cf04c94e9dedd9d5ad4a4cc662fc4d17319cf284469a1e16c32865767/68747470733a2f2f73747269646533642e6e65742f696d616765732f65787465726e616c2f7363726970742d656469746f722e706e67" width="300" /> |
+|![dagor](logos/dagor_64px.png)| Dagor | https://github.com/GaijinEntertainment/DagorEngine | <img src="https://pbs.twimg.com/media/DWaia30WsAA0cph.jpg" width="300" /> |
+|![range](logos/rangeengine_64px.png)| Range Engine |https://github.com/rangeengine/rangeengine.github.io | <img src="https://rangeengine.tech/img/sliders/materials.PNG" width="300" /> |
+|![iolite](logos/iolite_64px.png)| IOLITE Voxel |https://github.com/MissingDeadlines/iolite | <img src="https://iolite-engine.com/_next/image?url=https%3A%2F%2Fmedia.missing-deadlines.com%2Fiolite%2Fimages%2Fscreenshot_19.jpg&w=1920&q=75" width="300" /> |
 
 ## Solo Engines
 Engines that are being developed generally by a single individual or at most a handful. Some are commercial products, others are often either experimental or toy pieces of tech.
@@ -55,7 +55,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![rbdoom3bfg](logos/rbdoom3bfg_64px.png)| RBDoom3BFG | https://github.com/RobertBeckebans/RBDOOM-3-BFG | <img src="https://camo.githubusercontent.com/785784ae093a208d15eed76477b80dcad32c788812fb6e487e744471e6fde607/68747470733a2f2f692e696d6775722e636f6d2f705452303664482e706e67" width="300"/> |
 || Lumix Engine | https://github.com/nem0/LumixEngine |<img src="https://raw.githubusercontent.com/wiki/nem0/LumixEngine/files/features/editor.jpg" width="300"/>|
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine |<img src="https://user-images.githubusercontent.com/1499411/29488400-f43a5960-8512-11e7-923e-86a0c204da31.png" width="300"/>|
-|| Lumos Engine | https://github.com/jmorton06/Lumos |<img src="https://github.com/jmorton06/Lumos/raw/main/Resources/Screenshot0424-2.png" width="300"/>|
+|![lumos](logos/lumos_64px.png)| Lumos Engine | https://github.com/jmorton06/Lumos |<img src="https://github.com/jmorton06/Lumos/raw/main/Resources/Screenshot0424-2.png" width="300"/>|
 || Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
 || PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/78c6e458fbff9d2a8f39583b5fd023852ec249f87db8be93b6e42ec2e14078dc/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
 || Thunder | https://github.com/thunder-engine/thunder | <img src="https://raw.githubusercontent.com/thunder-engine/thunder/master/doc/media/ScreenShot01.png" width="300"/> |
@@ -91,4 +91,4 @@ These are only the graphics part of an engine but mature enough and well develop
 |![vultaik](https://github.com/redorav/public_source_engines/blob/master/logos/vultaik_64px.png)| Vultaik | https://github.com/FaberSanZ/Vultaik |
 || Veldrid | https://github.com/mellinoe/veldrid |
 |![Nabla](logos/nabla_64px.png)| Nabla | https://github.com/Devsh-Graphics-Programming/Nabla |
-
+|![stratusgfx](logos/stratusgfx_64px.png)| StratusGFX | https://github.com/KTStephano/StratusGFX |
