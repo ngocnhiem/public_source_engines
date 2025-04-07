@@ -55,7 +55,7 @@ Engines that are being developed generally by a single individual or at most a h
 |![rbdoom3bfg](logos/rbdoom3bfg_64px.png)| RBDoom3BFG | https://github.com/RobertBeckebans/RBDOOM-3-BFG | <img src="https://camo.githubusercontent.com/785784ae093a208d15eed76477b80dcad32c788812fb6e487e744471e6fde607/68747470733a2f2f692e696d6775722e636f6d2f705452303664482e706e67" width="300"/> |
 || Lumix Engine | https://github.com/nem0/LumixEngine |<img src="https://raw.githubusercontent.com/wiki/nem0/LumixEngine/files/features/editor.jpg" width="300"/>|
 || Ethereal Engine | https://github.com/volcoma/EtherealEngine |<img src="https://user-images.githubusercontent.com/1499411/29488400-f43a5960-8512-11e7-923e-86a0c204da31.png" width="300"/>|
-|| Lumos Engine | https://github.com/jmorton06/Lumos |<img src="https://github.com/jmorton06/Lumos/raw/main/Resources/Screenshot0424-2.png" width="300"/>|
+|![lumos](logos/lumos_64px.png)| Lumos Engine | https://github.com/jmorton06/Lumos |<img src="https://github.com/jmorton06/Lumos/raw/main/Resources/Screenshot0424-2.png" width="300"/>|
 || Sir Engine | https://github.com/giordi91/SirEngineThe3rd | <img src="https://github.com/giordi91/SirEngineThe3rd/raw/develop/docs/images/09_editor.png" width="300"/> |
 || PathFinder Engine | https://github.com/man-in-black382/PathFinder | <img src="https://camo.githubusercontent.com/78c6e458fbff9d2a8f39583b5fd023852ec249f87db8be93b6e42ec2e14078dc/68747470733a2f2f696d6775722e636f6d2f6957774d334f422e706e67" width="300"/> |
 || Thunder | https://github.com/thunder-engine/thunder | <img src="https://raw.githubusercontent.com/thunder-engine/thunder/master/doc/media/ScreenShot01.png" width="300"/> |
@@ -91,4 +91,4 @@ These are only the graphics part of an engine but mature enough and well develop
 |![vultaik](https://github.com/redorav/public_source_engines/blob/master/logos/vultaik_64px.png)| Vultaik | https://github.com/FaberSanZ/Vultaik |
 || Veldrid | https://github.com/mellinoe/veldrid |
 |![Nabla](logos/nabla_64px.png)| Nabla | https://github.com/Devsh-Graphics-Programming/Nabla |
-
+|![stratusgfx](logos/stratusgfx_64px.png)| StratusGFX | https://github.com/KTStephano/StratusGFX |
